@@ -30,7 +30,7 @@ Welcome to my personal portfolio website! This project is built with **React** a
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/mendeslian/portfolio.git
    ```
 
 2. **Navigate to the project folder**
